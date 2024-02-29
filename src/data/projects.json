@@ -1,6 +1,6 @@
 [
   {
-    "title": "Hire ME Platform",
+    "title": "Hire-Me Platform",
     "imageSrc": "projects/HireMe_HomePage.png",
     "description": "This is a microservice project made for architecting scalable system in NUS ISS",
     "skills": ["SpringBoot", "React", "AWS"],
