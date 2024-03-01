@@ -8,11 +8,11 @@
     "source": "https://github.com/Dandylionn/hireme-product-service"
   },
   {
-    "title": "Employee-Management System",
+    "title": "E-Manage System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to learn the latest languages by building an employee management app.",
     "skills": ["SpringBoot", "React"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Dandylionn/employee-management-system-frontend"
+    "source": "https://github.com/Dandylionn/E-Manage-backend"
   }
 ]
