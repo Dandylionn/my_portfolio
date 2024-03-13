@@ -1,9 +1,17 @@
 [
   {
+    "title": "Fundget App",
+    "imageSrc": "projects/Fundget_home.png",
+    "description": "An app to track total transaction - income and expenses",
+    "skills": ["MongoDB", "Express", "React", "NodeJS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Dandylionn/fundget-fullstack"
+  },
+  {
     "title": "Hire-Me Platform",
     "imageSrc": "projects/HireMe_HomePage.png",
     "description": "This is a microservice project made for architecting scalable system in NUS ISS",
-    "skills": ["SpringBoot", "React", "AWS"],
+    "skills": ["SpringBoot", "React", "MySQL", "AWS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Dandylionn/hireme-product-service"
   },
